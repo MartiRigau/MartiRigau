@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hola, sóc en Martí Rigau
 
-<!--
-**MartiRigau/MartiRigau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
 
-Here are some ideas to get you started:
+- Estic cursant **Un cicle de Desenvolupament d'aplicacions web** al centre **Bosc de la coma d'olot**.
+- M'interessa especialment el **desenvolupament d'aplicacions** i **El desenvolupament de videojocs**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Coneixements i tecnologies
+
+### Llenguatges de programació
+- **Que domino:** Java
+- **Que estic aprenent:** JavaScript, C#
+
+### Desenvolupament web
+- **Que domino:** HTML, CSS
+- **Que estic aprenent:** React, Node.js
+
+### Bases de dades
+- **Que domino:** MySQL
+- **Que estic aprenent:** MongoDB
+
+### Sistemes operatius
+- Windows, Linux (Ubuntu)
+
+### Eines
+- Git, GitHub, Visual Studio Code
+- **Estic aprenent:** Docker
+
+## Contacte
+- mrigau584@boscdelacoma.cat
+- [LinkedIn] Link
+
